@@ -8,7 +8,7 @@ const About = ({ align }) => {
         <Name />
       </div>
       <div className="md:hidden">
-        <h2 className="section-title">About</h2>
+        <h2 className="section-title">Sobre mí</h2>
       </div>
       <p className="section-text md:mb-5">
       Soy un Desarrollador Full Stack en formación, con una sólida comprensión en la creación de aplicaciones web robustas y
