@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "NotiK",
+    "description": "Aplicación web .net que envía alertas personalizadas sobre el calendario económico vía WhatsApp.",
+    "thumbnail": "/notik.webp",
+    "link": "https://github.com/jpsanoli2/NotiK-public"
+  },
+  {
+    "id": "2",
+    "title": "Gestión de tareas",
+    "description": "Aplicación sobre gestión de tareas",
+    "thumbnail": "/tareas.png",
+    "link": "https://github.com/jpsanoli2/AppGestionTareas" 
+  },
+  {
+    "id": "3",
+    "title": "Gestión de estancia",
+    "description": "Aplicacion sobre gestión de estancia",
+    "thumbnail": "/estancia.jpg",
+    "link": "https://github.com/jpsanoli2/ObligatorioP2"
+  }
+]

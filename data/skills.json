@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "HTML y CSS",
+    "percentage": "95"
+  },
+  {
+    "id": 2,
+    "name": "JavaScript",
+    "percentage": "85"
+  },
+  {
+    "id": 3,
+    "name": "React.js y Next.js",
+    "percentage": "75"
+  },
+  {
+    "id": 4,
+    "name": "Node.js y Express.js",
+    "percentage": "80"
+  },
+  {
+    "id": 5,
+    "name": "C# y .Net",
+    "percentage": "90"
+  },
+  {
+    "id": 5,
+    "name": "SQL Server y MongoDB",
+    "percentage": "75"
+  }
+]

@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .section-card {
+    @apply bg-white p-6 mb-10 md:p-14;
+  }
+
+  .section-title {
+    @apply text-2xl font-bold uppercase mb-3 text-center text-blue-900;
+  }
+
+  .wrapper {
+    @apply w-11/12 mx-auto max-w-[390.13px] sm:max-w-[921.6px];
+  }
+
+  .section-text {
+    @apply text-gray-600;
+  }
+
+  .contact-urls {
+    @apply flex items-center mb-3;
+  }
+
+  .social-btn {
+    @apply p-2 mt-3 hover:text-white;
+  }
+}
+
+* {
+  font-family: "Poppins", sans-serif;
+}
