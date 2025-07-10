@@ -24,7 +24,7 @@ const Contact = () => {
               <AiFillGithub />
             </span>
             <span className="text-sm ml-2 inline-block break-all">
-              <Link href="https://github.com/bhavankumar2911">
+              <Link href="https://github.com/jpsanoli2">
               https://github.com/jpsanoli2
               </Link>
             </span>

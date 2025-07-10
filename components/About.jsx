@@ -21,4 +21,4 @@ const About = ({ align }) => {
   );
 };
 
-export default About;
+export default About; 
